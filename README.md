@@ -6,7 +6,7 @@ $\frac{\partial u}{\partial t} - \alpha \Delta u = 0  ,   on   \Omega $
 
 the initial and boundary condition given as:
 
-$u(x,0) = \prod_{k=0}^{n-1}sin(\pi x_k).$
+$u(x,0)$ $=$ $\prod_{k=0}^{n-1}sin(\pi x_k).$
 
 $u(x,t) = 0,    \forall x \in \Omega.$
 
