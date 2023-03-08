@@ -6,9 +6,9 @@ $\frac{\partial u}{\partial t} - \alpha \Delta u = 0  ,   on   \Omega $
 
 the initial and boundary condition given as:
 
-$u(x,0)$ $=$ $\prod_{k=0}sin(\pi x_k).$
+$u(x,0)$ $=$ $\prod_{k=0}sin(\pi x_k), \forall x \in \Omega,$
 
-$u(x,t) = 0,    \forall x \in \Omega.$
+$u(x,t) = 0,    \forall x \in \ partial \Omega .$
 
 where $n$ is the number of dimensions of the domain, $ \Omega = [0,1]^n$
  is the domain (the unit square in 2D or the unit cube in 3D), $\partial \Omega$
